@@ -4,9 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",         // For local development
-  "build": "vite build", // To build for production
-  "serve": "serve -s dist" // To serve the build
+  "dev": "vite",         
+  "build": "vite build", 
+  "serve": "serve -s dist" 
 }
 ,
   "dependencies": {
